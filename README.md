@@ -24,7 +24,6 @@ To start using Jate, run the following command in the project directory:
 bash
 npm start
 
-GitHub Copilot
 Sure, here's a basic README for your Jate text editor project. You can expand on this as needed.
 
 or
